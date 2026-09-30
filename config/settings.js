@@ -46,14 +46,14 @@ const MUSIC_TRACKS = [
    Nama file harus:  img1.jpeg  img2.jpeg  … img8.jpeg
    Ganti caption (keterangan foto) di setiap baris.               */
 const GALLERY_PHOTOS = [
-  { file: "img1.jpeg", caption: "ngl one smile from you and my whole day just gets so much better." },  // ← GANTI CAPTION
-  { file: "img2.jpeg", caption: "you're literally the reason my heart feels this full, no cap." },
-  { file: "img3.jpeg", caption: "every single sec with you is hands down my fave." },
-  { file: "img4.jpeg", caption: "some people search their whole life for happiness, i just found it in you, fr." },
-  { file: "img5.jpeg", caption: "you turned my whole ordinary life into something this beautiful, idk how." },
-  { file: "img6.jpeg", caption: "my heart genuinely feels safest whenever it's with you." },
-  { file: "img7.jpeg", caption: "if i could relive literally any moment, i'd pick us every single time." },
-  { file: "img8.jpeg", caption: "still my favorite person, like, always and forever." },
+  { file: "img1.jpeg", caption: "Some people search for happiness, I found mine in you." },  // ← GANTI CAPTION
+  { file: "img2.jpeg", caption: "You're the reason my heart feels so full." },
+  { file: "img3.jpeg", caption: "One smile from you can fix my whole day." },
+  { file: "img4.jpeg", caption: "Every second with you is my favorite.." },
+  { file: "img5.jpeg", caption: "If I could relive a moment, I'd choose us every time." },
+  { file: "img6.jpeg", caption: "My heart feels safest when it's with you." },
+  { file: "img7.jpeg", caption: "You turned my ordinary life into something beautiful." },
+  { file: "img8.jpeg", caption: "Still my favorite person, always." },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
